@@ -14,7 +14,7 @@ A Resopnsive website ---Shop Admin Pannel .
 
 | Project   | Link     | Github link               | videio|
 | :-------- | :------- | :------------------------- |  :-------------------------|
-| `shop Admin Pannel` |https://pri-shop-admin.netlify.app/  | https://github.com/priyankasingh2907/Shop-Admin| |
+| `shop Admin Pannel` |https://pri-shop-admin.netlify.app/  | https://github.com/priyankasingh2907/Shop-Admin|https://www.youtube.com/watch?v=cXaX7x-SM1I |
 
 <br/>
 ## Run Locally
