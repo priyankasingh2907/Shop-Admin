@@ -1,0 +1,28 @@
+.milestones {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 1rem;
+    .milestone {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        border-radius: 3pc solid #f94144;
+        &:last-of-type {
+            border-right: none;
+        }
+        padding-right: 4rem;
+        .icon {
+            padding: 1rem;
+            font-size: 1.5rem;
+            border-radius: 1rem;
+            // color: #f94144;
+            background-color: #f94144;
+        }
+        h2 {
+            color: #f94144;
+        }
+    }
+}
